@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Proza+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import "@/styles/header.scss";
+@import "@/styles/home.scss";
+@import "@/styles/header.res.scss";
+:root {
+  --primary-bg: #4b0e96;
+  --secondary-bg: #e9e9ff;
+  --primary-title: #d20d03bb;
+  --primary-font: #004080;
+  --primary-fg: #ffffff;
+  --primary-badge: #dc3545;
+  --primary-pop: #034d57;
+  --link-fg: #004cff;
+  --table-bg: #17a2b8;
+  --tamil-bg: #ae0e2a;
+  --research-bg: #7bf304;
+}
+
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Rubik', sans-serif;
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+  background-color: #4b0e961e;
+  width: 100%;
+  height: 100vh;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

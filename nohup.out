@@ -1,0 +1,20 @@
+
+> examination@0.1.0 start
+> next start -p 4001
+
+Error: listen EADDRINUSE: address already in use 0.0.0.0:4001
+    at Server.setupListenHandle [as _listen2] (node:net:1740:16)
+    at listenInCluster (node:net:1788:12)
+    at doListen (node:net:1937:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 4001
+}
+
+> examination@0.1.0 start
+> next start -p 4001
+
+ready - started server on 0.0.0.0:4001, url: http://localhost:4001

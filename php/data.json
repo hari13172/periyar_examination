@@ -1,0 +1,454 @@
+{
+  "list1": {
+    "name": "Science Departments List 1",
+    "email": "phdcetscience@gmail.com",
+    "value": [
+      {
+        "val": "Biochemistry",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLScKvQ2R8Nt6YFVg3HM1q8w2iEpKqvXIL5vhwLNt1RJ4cjhACg/viewform?usp=pp_url "
+        ],
+        "link": "/exams/Biochemistry/list1",
+        "psk": "bio2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Biotechnology",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLScuMS_8AMV4vKIebrm2xlHmYqlZzebrnqynuByD4Wrlk5bB2w/viewform?usp=pp_url "
+        ],
+        "link": "/exams/Biotechnology/list1",
+        "psk": "bio2023",
+        "time": {
+          "from": "3:15",
+          "to": "4:15",
+          "session": "4",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Botany",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSfyE0_acZ3m4e4b8B0Ef97_IOL-wjnA9fskV6qT5BNolog6ig/viewform?usp=pp_url "
+        ],
+        "link": "/exams/Botany/list1",
+        "psk": "bot2023",
+        "time": {
+          "from": "3:15",
+          "to": "4:15",
+          "session": "4",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Chemistry",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSe33DtF-U7DnwukkAlVT8JCuAlrYRGIZxunfhBRr3BHef3D2A/viewform?usp=pp_url "
+        ],
+        "link": "/exams/Chemistry/list1",
+        "psk": "che2023",
+        "time": {
+          "from": "10:0",
+          "to": "11:0",
+          "session": "1",
+          "noon": "am"
+        }
+      },
+      {
+        "val": "Computer Science",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSe33DtF-U7DnwukkAlVT8JCuAlrYRGIZxunfhBRr3BHef3D2A/viewform?usp=pp_url "
+        ],
+        "link": "/exams/Computer Science/list1",
+        "psk": "com2023",
+        "time": {
+          "from": "3:15",
+          "to": "4:15",
+          "session": "4",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Energy Studies",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSfy517rHBrqd38av9s70VDhcmauCe-g7pZBZMd7BSfJYEznLQ/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Energy Studies/list1",
+        "psk": "ene2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Environmental Science",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSc9vmDAvQe96yWLx3ET6SuzwXmRzPE_TzxQ1v8ZZ7V7AwyUng/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Environmental Science/list1",
+        "psk": "env2023",
+        "time": {
+          "from": "3:15",
+          "to": "4:15",
+          "session": "4",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Energy Technology",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSeCbiRPXqAZKtb3OAPrTy1SS0oFN8LQi1K9AMAdNWY6RBsvwg/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Energy Technology/list1",
+        "psk": "ene2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Food Science and Nutrition",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSehOLqjjTztMv77ivlAx3AGWzjqKRO2ihh_VXBoH11W-jS8Pw/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Food Science and Nutrition/list1",
+        "psk": "foo2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Library and Information Science",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSfOkU7joArUjVBW-PkG6w31Fen-v6HfYNbiJb_ZqthpAxDcyw/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Library and Information Science/list1",
+        "psk": "lib2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      }
+    ]
+  },
+  "list2": {
+    "name": "Science Departments List 2",
+    "email": "phdcetscience2@gmail.com",
+    "value": [
+      {
+        "val": "Geology",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSd89fRt2oRNbXcSfWPQYxrZcdnexg7W6eQvNvpIPpV8sNKQEw/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Geology/list2",
+        "psk": "geo2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Mathematics",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLScDvGphS97e1MGOR9ZECJHMegQGJKoV9mjQQX_QNXd-AV-KHQ/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Mathematics/list2",
+        "psk": "mat2023",
+        "time": {
+          "from": "11:30",
+          "to": "12:30",
+          "session": "2",
+          "noon": "am"
+        }
+      },
+      {
+        "val": "Microbiology",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSfAcgcmBpj4lhnEdX0ExW7QtkoimNt3D-IDKAKV6Fq5SIpg9A/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Microbiology/list2",
+        "psk": "mic2023",
+        "time": {
+          "from": "11:30",
+          "to": "12:30",
+          "session": "2",
+          "noon": "am"
+        }
+      },
+      {
+        "val": "Nutrition and Dietetics",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSclVtQWW_Kl5qDsXXoDFxIQfl2suUJKoEZdSk-Vv7YvTxug2g/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Nutrition and Dietetics/list2",
+        "psk": "nut2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Physics",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSfFbfaKGWTK5IjiOL_wD1M6Dn_DYBvkj85rhf3FzPAlQqK3FQ/viewform?usp=pp_url "
+        ],
+        "link": "/exams/Physics/list2",
+        "psk": "phy2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Psychology",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSdmRUqZP7UX5g31k_SkfhmFNCSzwrl3XJkbf33eG6-4Y0DRMA/viewform?usp=pp_url "
+        ],
+        "link": "/exams/Psychology/list2",
+        "psk": "psy2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Physical Education",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSfP-74itxuEp09mpR6-kcfSIHHSsbV1pIHIgrbndFE890lH-A/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Physical Education/list2",
+        "psk": "phy2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Statistics",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSfQO1EMhlK74K2FK3HxZ5JKcffHPmdUvSTUX_uNRJIuhRhWHQ/viewform?usp=pp_url "
+        ],
+        "link": "/exams/Statistics/list2",
+        "psk": "sta2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Textiles and Apparel Design",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSdmRUqZP7UX5g31k_SkfhmFNCSzwrl3XJkbf33eG6-4Y0DRMA/viewform?usp=pp_url "
+        ],
+        "link": "/exams/Textiles and Apparel Design/list2",
+        "psk": "tex2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Zoology",
+        "lcount": [
+          "https://www.google.com"
+        ],
+        "link": "/exams/Zoology/list2",
+        "psk": "zoo2023",
+        "time": {
+          "from": "2:0",
+          "to": "3:0",
+          "session": "3",
+          "noon": "pm"
+        }
+      }
+    ]
+  },
+  "arts": {
+    "name": "Arts Departments",
+    "email": "phdcetarts@gmail.com",
+    "value": [
+      {
+        "val": "Commerce",
+        "lcount": [
+          "https://www.google.com"
+        ],
+        "link": "/exams/Commerce/arts",
+        "psk": "com2023",
+        "time": {
+          "from": "11:30",
+          "to": "12:30",
+          "session": "2",
+          "noon": "am"
+        }
+      },
+      {
+        "val": "Economics",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSdQmDXTO6XEgeUR43BSFxsb3tTLn9y62KOQjM2Hw-AWNWIDBw/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Economics/arts",
+        "psk": "eco2023",
+        "time": {
+          "from": "3:15",
+          "to": "4:15",
+          "session": "4",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Education",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLScczgNjMmVj1cUdbceF-D5PaM1pSaG9hhVQd8T548G0Xke74w/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Education/arts",
+        "psk": "edu2023",
+        "time": {
+          "from": "3:15",
+          "to": "4:15",
+          "session": "4",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "English",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSc-QfNyUN9qaheOzre-RX_hjOaD84SrSBL66RJdQSfi9Pf33Q/viewform?usp=pp_url"
+        ],
+        "link": "/exams/English/arts",
+        "psk": "eng2023",
+        "time": {
+          "from": "10:0",
+          "to": "11:0",
+          "session": "1",
+          "noon": "am"
+        }
+      },
+      {
+        "val": "History",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLScM9pomO2y-SRyQxIovMH0kuHkNhpTgLEurYItrPC_AGvm1SA/viewform?usp=pp_url"
+        ],
+        "link": "/exams/History/arts",
+        "psk": "his2023",
+        "time": {
+          "from": "11:30",
+          "to": "12:30",
+          "session": "2",
+          "noon": "am"
+        }
+      },
+      {
+        "val": "Journalism and Mass Communication",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSfrXosoxA3kisXnQKN7T-ffcWmbcOl9rthEluIFgqN0iLC0WQ/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Journalism and Mass Communication/arts",
+        "psk": "jou2023",
+        "time": {
+          "from": "11:30",
+          "to": "12:30",
+          "session": "2",
+          "noon": "am"
+        }
+      },
+      {
+        "val": "Public Administration (M.Phil. only)",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSfrXosoxA3kisXnQKN7T-ffcWmbcOl9rthEluIFgqN0iLC0WQ/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Public Administration (M.Phil. only)/arts",
+        "psk": "adm2023",
+        "time": {
+          "from": "11:30",
+          "to": "12:30",
+          "session": "2",
+          "noon": "am"
+        }
+      },
+      {
+        "val": "Management Studies",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSeRLJ5w23v-ZfLhN8eLm57wh5p_vuDGOa8qE_K45zn7Ryy3eQ/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Management Studies/arts",
+        "psk": "man2023",
+        "time": {
+          "from": "11:30",
+          "to": "12:30",
+          "session": "2",
+          "noon": "am"
+        }
+      },
+      {
+        "val": "Political Science",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSe6DlPqXvYvdTYF2V7ug3Hp_DWdTrtvVrhY4CMHJKJJfC0t3A/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Political Science/arts",
+        "psk": "pol2023",
+        "time": {
+          "from": "3:15",
+          "to": "4:15",
+          "session": "4",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Sociology",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSe2MFYdYATMf3tvHIV-i7QS3XDguPUfJ79n5RrxTU8BNbBscg/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Sociology/arts",
+        "psk": "soc2023",
+        "time": {
+          "from": "3:15",
+          "to": "4:15",
+          "session": "4",
+          "noon": "pm"
+        }
+      },
+      {
+        "val": "Tamil",
+        "lcount": [
+          "https://docs.google.com/forms/d/e/1FAIpQLSca91yXHp3TQrlw5mOYVHa8coV30qJUI-rHwGwGhJKtX3JEkQ/viewform?usp=pp_url"
+        ],
+        "link": "/exams/Tamil/arts",
+        "psk": "tam2023",
+        "time": {
+          "from": "3:15",
+          "to": "4:15",
+          "session": "4",
+          "noon": "pm"
+        }
+      }
+    ]
+  }
+}
